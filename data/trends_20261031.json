@@ -1,0 +1,722 @@
+[
+    {
+        "post_id": 50277379,
+        "title": "Cloudflare Turnstile solver library (no headless browser required)",
+        "category": "technology",
+        "score": 169,
+        "num_comments": 49,
+        "author": "costco",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50305573,
+        "title": "The federated code forge",
+        "category": "technology",
+        "score": 272,
+        "num_comments": 84,
+        "author": "zlliang",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50300683,
+        "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+        "category": "technology",
+        "score": 873,
+        "num_comments": 514,
+        "author": "_chall",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50289081,
+        "title": "Brief History of PDP Computers",
+        "category": "technology",
+        "score": 14,
+        "num_comments": 2,
+        "author": "ibobev",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50276613,
+        "title": "Double Buffering with Cloudflare Queues",
+        "category": "technology",
+        "score": 25,
+        "num_comments": 3,
+        "author": "b_llc",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50304122,
+        "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+        "category": "technology",
+        "score": 166,
+        "num_comments": 195,
+        "author": "taubek",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50309647,
+        "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+        "category": "technology",
+        "score": 288,
+        "num_comments": 159,
+        "author": "apress",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50276355,
+        "title": "Trapped in the Technologist Factory",
+        "category": "technology",
+        "score": 29,
+        "num_comments": 10,
+        "author": "luu",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50296730,
+        "title": "Building an AI-native engineering org",
+        "category": "technology",
+        "score": 142,
+        "num_comments": 176,
+        "author": "sgondala_ycapp",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50272479,
+        "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+        "category": "technology",
+        "score": 217,
+        "num_comments": 24,
+        "author": "acossta",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50305693,
+        "title": "AI isn't replacing SREs, it's deskilling them",
+        "category": "technology",
+        "score": 569,
+        "num_comments": 419,
+        "author": "dorianniemiec",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50277518,
+        "title": "Wonderful Weather: Floods and Foreboding in 17th-Century Britain",
+        "category": "technology",
+        "score": 18,
+        "num_comments": 0,
+        "author": "Thevet",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50296486,
+        "title": "We ran AI agent swarms in Minecraft and Mindustry",
+        "category": "technology",
+        "score": 402,
+        "num_comments": 165,
+        "author": "sandslash",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50310258,
+        "title": "AO3 Down for Maintenance",
+        "category": "technology",
+        "score": 121,
+        "num_comments": 34,
+        "author": "idlewords",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50305724,
+        "title": "Some Thing is Happening A note from the AI companies",
+        "category": "technology",
+        "score": 40,
+        "num_comments": 8,
+        "author": "DamnInteresting",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50313257,
+        "title": "Britain Narrowly Escaped a Grid Blackout in June 2026",
+        "category": "technology",
+        "score": 10,
+        "num_comments": 2,
+        "author": "sohkamyung",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50310431,
+        "title": "Wall Street closes sharply lower as AI cash burn fears spark tech selloff",
+        "category": "technology",
+        "score": 54,
+        "num_comments": 9,
+        "author": "geox",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50291116,
+        "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+        "category": "technology",
+        "score": 76,
+        "num_comments": 33,
+        "author": "shong0504",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50312922,
+        "title": "OpenAI raises less than half of $30B target",
+        "category": "technology",
+        "score": 144,
+        "num_comments": 126,
+        "author": "timr",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50297089,
+        "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+        "category": "technology",
+        "score": 141,
+        "num_comments": 42,
+        "author": "simonebrunozzi",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50290283,
+        "title": "Zombie stats: Where the numbers AI quotes come from",
+        "category": "technology",
+        "score": 177,
+        "num_comments": 72,
+        "author": "mektrik",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50298964,
+        "title": "Pico CSS is no longer maintained",
+        "category": "technology",
+        "score": 191,
+        "num_comments": 97,
+        "author": "henrid",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50290912,
+        "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
+        "category": "technology",
+        "score": 144,
+        "num_comments": 22,
+        "author": "wondersky",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50290177,
+        "title": "LLM Voice",
+        "category": "technology",
+        "score": 594,
+        "num_comments": 328,
+        "author": "ibobev",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50286987,
+        "title": "Chained PHP2Shell exploit roots 25 servers, including US Government servers",
+        "category": "technology",
+        "score": 323,
+        "num_comments": 164,
+        "author": "882542F3884314B",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50311686,
+        "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+        "category": "worldnews",
+        "score": 175,
+        "num_comments": 48,
+        "author": "francisofascii",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50294702,
+        "title": "Patrick Stewart has died",
+        "category": "worldnews",
+        "score": 3262,
+        "num_comments": 745,
+        "author": "j4mie",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50304419,
+        "title": "Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It",
+        "category": "worldnews",
+        "score": 292,
+        "num_comments": 272,
+        "author": "brandonb",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50292233,
+        "title": "Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic",
+        "category": "worldnews",
+        "score": 180,
+        "num_comments": 18,
+        "author": "armcat",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50296905,
+        "title": "Lighthouses, War and a Puffling",
+        "category": "worldnews",
+        "score": 12,
+        "num_comments": 0,
+        "author": "aways",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50249598,
+        "title": "Iterating Backwards in C",
+        "category": "worldnews",
+        "score": 107,
+        "num_comments": 73,
+        "author": "cremno",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50298738,
+        "title": "Show HN: Arken – Passwordless auth middleware using secp256k1 keys",
+        "category": "worldnews",
+        "score": 12,
+        "num_comments": 0,
+        "author": "zachbenson817",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50306581,
+        "title": "U.S. Oil Industry Earned over $130B in Profit During Iran War",
+        "category": "worldnews",
+        "score": 39,
+        "num_comments": 4,
+        "author": "ceejayoz",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50294770,
+        "title": "Patrick Stewart Has Died",
+        "category": "worldnews",
+        "score": 114,
+        "num_comments": 6,
+        "author": "duke_sam",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50272145,
+        "title": "US agency approves Amazon Leo’s $11.5B acquisition of Globalstar",
+        "category": "worldnews",
+        "score": 240,
+        "num_comments": 107,
+        "author": "noptd",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50259604,
+        "title": "US Government is hiding a secret court ruling about how it spies on Americans",
+        "category": "worldnews",
+        "score": 1094,
+        "num_comments": 459,
+        "author": "helterskelter2",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50289162,
+        "title": "Why are good developers so wary of agentic development?",
+        "category": "worldnews",
+        "score": 102,
+        "num_comments": 140,
+        "author": "torutofu",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50266701,
+        "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+        "category": "worldnews",
+        "score": 51,
+        "num_comments": 37,
+        "author": "matthieu_bl",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50266046,
+        "title": "New Dwarf Planet Candidate in Our Solar System",
+        "category": "worldnews",
+        "score": 41,
+        "num_comments": 5,
+        "author": "pppone",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50294914,
+        "title": "Patrick Stewart Dies at 86",
+        "category": "worldnews",
+        "score": 17,
+        "num_comments": 1,
+        "author": "evgen",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50263127,
+        "title": "Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated",
+        "category": "sports",
+        "score": 196,
+        "num_comments": 55,
+        "author": "benbreen",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50313473,
+        "title": "The Beleaguered Chip Sellers Getting Their Revenge on Apple",
+        "category": "sports",
+        "score": 4,
+        "num_comments": 0,
+        "author": "shubhamjain",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50295450,
+        "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+        "category": "sports",
+        "score": 270,
+        "num_comments": 18,
+        "author": "airinei",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50306776,
+        "title": "Ask HN: What's it like working at Google nowadays? Core teams like Search, Ads?",
+        "category": "sports",
+        "score": 39,
+        "num_comments": 26,
+        "author": "karakoram",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50305320,
+        "title": "Show HN: I built a multiplayer game where you're an aerial fighter cat",
+        "category": "sports",
+        "score": 80,
+        "num_comments": 41,
+        "author": "pawelwentpawel",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50303455,
+        "title": "Show HN: PicoPlayer – A tiny, open-source website for playing quality webgames",
+        "category": "sports",
+        "score": 11,
+        "num_comments": 7,
+        "author": "popcar2",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50274547,
+        "title": "Keep the changelog, avoid the conflicts",
+        "category": "sports",
+        "score": 9,
+        "num_comments": 4,
+        "author": "domenkozar",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50304358,
+        "title": "Anthropic Cracking Down on Video Game Rewrites",
+        "category": "sports",
+        "score": 106,
+        "num_comments": 104,
+        "author": "jacquesm",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50277498,
+        "title": "Nintendo's worst nightmare begins as Switch 2 games start running on PC and Mac",
+        "category": "sports",
+        "score": 27,
+        "num_comments": 10,
+        "author": "ada-h00k",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50309591,
+        "title": "SpaceX No longer needs NASA",
+        "category": "science",
+        "score": 32,
+        "num_comments": 9,
+        "author": "amosj",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50271521,
+        "title": "Study: Schoolwide phone bans show no significant impact on mental health",
+        "category": "science",
+        "score": 79,
+        "num_comments": 70,
+        "author": "giuliomagnifico",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50308694,
+        "title": "NASA ponders a Hubble servicing mission or a controlled deorbit",
+        "category": "science",
+        "score": 5,
+        "num_comments": 1,
+        "author": "samizdis",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50304393,
+        "title": "Ghostly Cat's Head Nebula Lurks Within Sight of NASA's Hubble, Webb",
+        "category": "science",
+        "score": 7,
+        "num_comments": 0,
+        "author": "bookofjoe",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50297358,
+        "title": "SpaceX no longer needs NASA, and that's a problem for America's space agency",
+        "category": "science",
+        "score": 21,
+        "num_comments": 33,
+        "author": "civilchaos",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50244265,
+        "title": "KibernetykMono – A Geometric Monospace Typeface",
+        "category": "science",
+        "score": 43,
+        "num_comments": 3,
+        "author": "thw_9a83c",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50306442,
+        "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
+        "category": "entertainment",
+        "score": 236,
+        "num_comments": 119,
+        "author": "dbreunig",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50258605,
+        "title": "Show HN: Samosa – Linter for Math Derivations",
+        "category": "entertainment",
+        "score": 4,
+        "num_comments": 0,
+        "author": "Hussain04",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50305218,
+        "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
+        "category": "entertainment",
+        "score": 31,
+        "num_comments": 9,
+        "author": "ericlevine",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50291812,
+        "title": "Show HN: I rebuilt Kubernetes for ESP32 microcontrollers",
+        "category": "entertainment",
+        "score": 38,
+        "num_comments": 9,
+        "author": "Arterialist",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50297697,
+        "title": "Show HN: I Turned DOOM into a Transformer",
+        "category": "entertainment",
+        "score": 126,
+        "num_comments": 36,
+        "author": "falperc",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50306815,
+        "title": "Show HN: Spinf-serve – inference server for bulk scoring and decisions",
+        "category": "entertainment",
+        "score": 21,
+        "num_comments": 5,
+        "author": "giarec",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50294506,
+        "title": "Show HN: Auto Dismiss Mac OS \"Allow <app> to find devices on local networks?\"",
+        "category": "entertainment",
+        "score": 150,
+        "num_comments": 126,
+        "author": "johncassil",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50266956,
+        "title": "An illustrated online book on Hewlett-Packard equipment",
+        "category": "entertainment",
+        "score": 47,
+        "num_comments": 7,
+        "author": "sohkamyung",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50303832,
+        "title": "Show HN: Fraktur, a DJ mixing app in the browser",
+        "category": "entertainment",
+        "score": 19,
+        "num_comments": 0,
+        "author": "janesconference",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50278678,
+        "title": "Show HN: A proof-of-concept formalization of the IRS federal tax forms",
+        "category": "entertainment",
+        "score": 80,
+        "num_comments": 12,
+        "author": "RGS1811",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50299004,
+        "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
+        "category": "entertainment",
+        "score": 36,
+        "num_comments": 20,
+        "author": "lastmjs",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50276940,
+        "title": "MacBook Pro with PROLED XDR Display and Touch",
+        "category": "entertainment",
+        "score": 619,
+        "num_comments": 1090,
+        "author": "etothet",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50293115,
+        "title": "Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",
+        "category": "entertainment",
+        "score": 44,
+        "num_comments": 10,
+        "author": "rvanderlinden",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50276883,
+        "title": "Show HN: SlideBySide – Present slides without sharing your screen",
+        "category": "entertainment",
+        "score": 81,
+        "num_comments": 35,
+        "author": "denismenace",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50261352,
+        "title": "New 14‑inch MacBook Pro with M6",
+        "category": "entertainment",
+        "score": 436,
+        "num_comments": 622,
+        "author": "beex",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50294473,
+        "title": "Show HN: Typebook.lol read books by typing the letters only",
+        "category": "entertainment",
+        "score": 10,
+        "num_comments": 12,
+        "author": "vegnus",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50274300,
+        "title": "Show HN: Yavashark: I've Built a JavaScript Engine Every Day for 950 Days",
+        "category": "entertainment",
+        "score": 38,
+        "num_comments": 3,
+        "author": "sharktheone",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50246238,
+        "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+        "category": "entertainment",
+        "score": 175,
+        "num_comments": 43,
+        "author": "pancomplex",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50238708,
+        "title": "Show HN: TitleArt – Make text like it's 1997",
+        "category": "entertainment",
+        "score": 409,
+        "num_comments": 82,
+        "author": "davidbarker",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50271968,
+        "title": "Show HN: Squishy 3D helpers powered by Three.js",
+        "category": "entertainment",
+        "score": 16,
+        "num_comments": 10,
+        "author": "prathje",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50295662,
+        "title": "Show HN: OpenArcanum – An End-to-End Encrypted Alternative to Discord",
+        "category": "entertainment",
+        "score": 5,
+        "num_comments": 0,
+        "author": "SamInTheShell",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50294526,
+        "title": "Show HN: Fitness Functions for Dbt Projects",
+        "category": "entertainment",
+        "score": 3,
+        "num_comments": 2,
+        "author": "bartschuijt",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50293303,
+        "title": "Show HN: Capo-S3 – a typed, async-first S3 client for Python",
+        "category": "entertainment",
+        "score": 16,
+        "num_comments": 3,
+        "author": "karpetrosyan",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50293287,
+        "title": "Show HN: An open-source app for IELTS preparation",
+        "category": "entertainment",
+        "score": 5,
+        "num_comments": 0,
+        "author": "luxshan_t",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    },
+    {
+        "post_id": 50235738,
+        "title": "What goes into making an animated film?",
+        "category": "entertainment",
+        "score": 176,
+        "num_comments": 78,
+        "author": "embedding-shape",
+        "collected_at": "2026-10-31T13:11:27+05:30"
+    }
+]
