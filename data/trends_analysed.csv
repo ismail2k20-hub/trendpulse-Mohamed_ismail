@@ -1,0 +1,78 @@
+post_id,title,category,score,num_comments,author,collected_at,engagement,is_popular
+50277379,Cloudflare Turnstile solver library (no headless browser required),technology,169,49,costco,2026-10-31 13:11:27+05:30,0.28823529411764703,False
+50305573,The federated code forge,technology,272,84,zlliang,2026-10-31 13:11:27+05:30,0.3076923076923077,True
+50300683,Backdoor in Claude Code for VS Code extension on the Cursor Marketplace,technology,873,514,_chall,2026-10-31 13:11:27+05:30,0.5881006864988558,True
+50289081,Brief History of PDP Computers,technology,14,2,ibobev,2026-10-31 13:11:27+05:30,0.13333333333333333,False
+50276613,Double Buffering with Cloudflare Queues,technology,25,3,b_llc,2026-10-31 13:11:27+05:30,0.11538461538461539,False
+50304122,Cisco gives engineer unlimited AI tokens to rewrite legacy code,technology,166,195,taubek,2026-10-31 13:11:27+05:30,1.1676646706586826,False
+50309647,"Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",technology,288,159,apress,2026-10-31 13:11:27+05:30,0.5501730103806228,True
+50276355,Trapped in the Technologist Factory,technology,29,10,luu,2026-10-31 13:11:27+05:30,0.3333333333333333,False
+50296730,Building an AI-native engineering org,technology,142,176,sgondala_ycapp,2026-10-31 13:11:27+05:30,1.2307692307692308,False
+50272479,Sleep framework: A new way for LLMs to retain knowledge in continual learning,technology,217,24,acossta,2026-10-31 13:11:27+05:30,0.11009174311926606,True
+50305693,"AI isn't replacing SREs, it's deskilling them",technology,569,419,dorianniemiec,2026-10-31 13:11:27+05:30,0.7350877192982456,True
+50277518,Wonderful Weather: Floods and Foreboding in 17th-Century Britain,technology,18,0,Thevet,2026-10-31 13:11:27+05:30,0.0,False
+50296486,We ran AI agent swarms in Minecraft and Mindustry,technology,402,165,sandslash,2026-10-31 13:11:27+05:30,0.4094292803970223,True
+50310258,AO3 Down for Maintenance,technology,121,34,idlewords,2026-10-31 13:11:27+05:30,0.2786885245901639,False
+50305724,Some Thing is Happening A note from the AI companies,technology,40,8,DamnInteresting,2026-10-31 13:11:27+05:30,0.1951219512195122,False
+50313257,Britain Narrowly Escaped a Grid Blackout in June 2026,technology,10,2,sohkamyung,2026-10-31 13:11:27+05:30,0.18181818181818182,False
+50310431,Wall Street closes sharply lower as AI cash burn fears spark tech selloff,technology,54,9,geox,2026-10-31 13:11:27+05:30,0.16363636363636364,False
+50291116,Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents,technology,76,33,shong0504,2026-10-31 13:11:27+05:30,0.42857142857142855,False
+50312922,OpenAI raises less than half of $30B target,technology,144,126,timr,2026-10-31 13:11:27+05:30,0.8689655172413793,False
+50297089,"A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",technology,141,42,simonebrunozzi,2026-10-31 13:11:27+05:30,0.29577464788732394,False
+50290283,Zombie stats: Where the numbers AI quotes come from,technology,177,72,mektrik,2026-10-31 13:11:27+05:30,0.4044943820224719,False
+50298964,Pico CSS is no longer maintained,technology,191,97,henrid,2026-10-31 13:11:27+05:30,0.5052083333333334,True
+50290912,Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks,technology,144,22,wondersky,2026-10-31 13:11:27+05:30,0.15172413793103448,False
+50290177,LLM Voice,technology,594,328,ibobev,2026-10-31 13:11:27+05:30,0.5512605042016807,True
+50286987,"Chained PHP2Shell exploit roots 25 servers, including US Government servers",technology,323,164,882542F3884314B,2026-10-31 13:11:27+05:30,0.5061728395061729,True
+50311686,"Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",worldnews,175,48,francisofascii,2026-10-31 13:11:27+05:30,0.2727272727272727,False
+50294702,Patrick Stewart has died,worldnews,3262,745,j4mie,2026-10-31 13:11:27+05:30,0.2283174992338339,True
+50304419,Medicare Will Pay $50k for Your Heart Attack. It Should Pay $100 to Prevent It,worldnews,292,272,brandonb,2026-10-31 13:11:27+05:30,0.9283276450511946,True
+50292233,Tomáš Mikolov awarded the Medal of Merit by the President of the Czech Republic,worldnews,180,18,armcat,2026-10-31 13:11:27+05:30,0.09944751381215469,False
+50296905,"Lighthouses, War and a Puffling",worldnews,12,0,aways,2026-10-31 13:11:27+05:30,0.0,False
+50249598,Iterating Backwards in C,worldnews,107,73,cremno,2026-10-31 13:11:27+05:30,0.6759259259259259,False
+50298738,Show HN: Arken – Passwordless auth middleware using secp256k1 keys,worldnews,12,0,zachbenson817,2026-10-31 13:11:27+05:30,0.0,False
+50306581,U.S. Oil Industry Earned over $130B in Profit During Iran War,worldnews,39,4,ceejayoz,2026-10-31 13:11:27+05:30,0.1,False
+50294770,Patrick Stewart Has Died,worldnews,114,6,duke_sam,2026-10-31 13:11:27+05:30,0.05217391304347826,False
+50272145,US agency approves Amazon Leo’s $11.5B acquisition of Globalstar,worldnews,240,107,noptd,2026-10-31 13:11:27+05:30,0.44398340248962653,True
+50259604,US Government is hiding a secret court ruling about how it spies on Americans,worldnews,1094,459,helterskelter2,2026-10-31 13:11:27+05:30,0.4191780821917808,True
+50289162,Why are good developers so wary of agentic development?,worldnews,102,140,torutofu,2026-10-31 13:11:27+05:30,1.3592233009708738,False
+50266701,Expanding our partnership with GSA to bring Claude to all levels of government,worldnews,51,37,matthieu_bl,2026-10-31 13:11:27+05:30,0.7115384615384616,False
+50266046,New Dwarf Planet Candidate in Our Solar System,worldnews,41,5,pppone,2026-10-31 13:11:27+05:30,0.11904761904761904,False
+50294914,Patrick Stewart Dies at 86,worldnews,17,1,evgen,2026-10-31 13:11:27+05:30,0.05555555555555555,False
+50263127,Gilgamesh by Simon Armitage review – an ancient epic is brilliantly translated,sports,196,55,benbreen,2026-10-31 13:11:27+05:30,0.27918781725888325,True
+50295450,A tiny world model running games on a Raspberry Pi Pico 2 W,sports,270,18,airinei,2026-10-31 13:11:27+05:30,0.06642066420664207,True
+50306776,"Ask HN: What's it like working at Google nowadays? Core teams like Search, Ads?",sports,39,26,karakoram,2026-10-31 13:11:27+05:30,0.65,False
+50305320,Show HN: I built a multiplayer game where you're an aerial fighter cat,sports,80,41,pawelwentpawel,2026-10-31 13:11:27+05:30,0.5061728395061729,False
+50303455,"Show HN: PicoPlayer – A tiny, open-source website for playing quality webgames",sports,11,7,popcar2,2026-10-31 13:11:27+05:30,0.5833333333333334,False
+50274547,"Keep the changelog, avoid the conflicts",sports,9,4,domenkozar,2026-10-31 13:11:27+05:30,0.4,False
+50304358,Anthropic Cracking Down on Video Game Rewrites,sports,106,104,jacquesm,2026-10-31 13:11:27+05:30,0.9719626168224299,False
+50277498,Nintendo's worst nightmare begins as Switch 2 games start running on PC and Mac,sports,27,10,ada-h00k,2026-10-31 13:11:27+05:30,0.35714285714285715,False
+50309591,SpaceX No longer needs NASA,science,32,9,amosj,2026-10-31 13:11:27+05:30,0.2727272727272727,False
+50271521,Study: Schoolwide phone bans show no significant impact on mental health,science,79,70,giuliomagnifico,2026-10-31 13:11:27+05:30,0.875,False
+50308694,NASA ponders a Hubble servicing mission or a controlled deorbit,science,5,1,samizdis,2026-10-31 13:11:27+05:30,0.16666666666666666,False
+50304393,"Ghostly Cat's Head Nebula Lurks Within Sight of NASA's Hubble, Webb",science,7,0,bookofjoe,2026-10-31 13:11:27+05:30,0.0,False
+50297358,"SpaceX no longer needs NASA, and that's a problem for America's space agency",science,21,33,civilchaos,2026-10-31 13:11:27+05:30,1.5,False
+50244265,KibernetykMono – A Geometric Monospace Typeface,science,43,3,thw_9a83c,2026-10-31 13:11:27+05:30,0.06818181818181818,False
+50306442,Show HN: A working Nintendo in ~1GB of Qwen weights,entertainment,236,119,dbreunig,2026-10-31 13:11:27+05:30,0.5021097046413502,True
+50305218,Show HN: Sketch Stadium – watch your agent play Pictionary,entertainment,31,9,ericlevine,2026-10-31 13:11:27+05:30,0.28125,False
+50291812,Show HN: I rebuilt Kubernetes for ESP32 microcontrollers,entertainment,38,9,Arterialist,2026-10-31 13:11:27+05:30,0.23076923076923078,False
+50297697,Show HN: I Turned DOOM into a Transformer,entertainment,126,36,falperc,2026-10-31 13:11:27+05:30,0.28346456692913385,False
+50306815,Show HN: Spinf-serve – inference server for bulk scoring and decisions,entertainment,21,5,giarec,2026-10-31 13:11:27+05:30,0.22727272727272727,False
+50294506,"Show HN: Auto Dismiss Mac OS ""Allow <app> to find devices on local networks?""",entertainment,150,126,johncassil,2026-10-31 13:11:27+05:30,0.8344370860927153,False
+50266956,An illustrated online book on Hewlett-Packard equipment,entertainment,47,7,sohkamyung,2026-10-31 13:11:27+05:30,0.14583333333333334,False
+50303832,"Show HN: Fraktur, a DJ mixing app in the browser",entertainment,19,0,janesconference,2026-10-31 13:11:27+05:30,0.0,False
+50278678,Show HN: A proof-of-concept formalization of the IRS federal tax forms,entertainment,80,12,RGS1811,2026-10-31 13:11:27+05:30,0.14814814814814814,False
+50299004,Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge,entertainment,36,20,lastmjs,2026-10-31 13:11:27+05:30,0.5405405405405406,False
+50276940,MacBook Pro with PROLED XDR Display and Touch,entertainment,619,1090,etothet,2026-10-31 13:11:27+05:30,1.7580645161290323,True
+50293115,"Show HN: Overtone – Transcribe, correct and cut captions for any screen shape",entertainment,44,10,rvanderlinden,2026-10-31 13:11:27+05:30,0.2222222222222222,False
+50276883,Show HN: SlideBySide – Present slides without sharing your screen,entertainment,81,35,denismenace,2026-10-31 13:11:27+05:30,0.4268292682926829,False
+50261352,New 14‑inch MacBook Pro with M6,entertainment,436,622,beex,2026-10-31 13:11:27+05:30,1.4233409610983982,True
+50294473,Show HN: Typebook.lol read books by typing the letters only,entertainment,10,12,vegnus,2026-10-31 13:11:27+05:30,1.0909090909090908,False
+50274300,Show HN: Yavashark: I've Built a JavaScript Engine Every Day for 950 Days,entertainment,38,3,sharktheone,2026-10-31 13:11:27+05:30,0.07692307692307693,False
+50246238,"Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",entertainment,175,43,pancomplex,2026-10-31 13:11:27+05:30,0.24431818181818182,False
+50238708,Show HN: TitleArt – Make text like it's 1997,entertainment,409,82,davidbarker,2026-10-31 13:11:27+05:30,0.2,True
+50271968,Show HN: Squishy 3D helpers powered by Three.js,entertainment,16,10,prathje,2026-10-31 13:11:27+05:30,0.5882352941176471,False
+50295662,Show HN: OpenArcanum – An End-to-End Encrypted Alternative to Discord,entertainment,5,0,SamInTheShell,2026-10-31 13:11:27+05:30,0.0,False
+50293303,"Show HN: Capo-S3 – a typed, async-first S3 client for Python",entertainment,16,3,karpetrosyan,2026-10-31 13:11:27+05:30,0.17647058823529413,False
+50293287,Show HN: An open-source app for IELTS preparation,entertainment,5,0,luxshan_t,2026-10-31 13:11:27+05:30,0.0,False
+50235738,What goes into making an animated film?,entertainment,176,78,embedding-shape,2026-10-31 13:11:27+05:30,0.4406779661016949,False
